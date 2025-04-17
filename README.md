@@ -43,7 +43,9 @@ Finish products will also be linked in [My Portfolio](https://kclarke7.github.io
 <h2>Let's chat</h2>
 <p>You can reach me...</p>
 
-<h2> ⚡ Fun fact: ... </h2>
+<h2> ⚡Fun facts about me</h2>
+
+[Take the Quiz](https://quizizz.com/embed/quiz/68014fbaa2694c6464d2bb73)
 
 <!---
 kclarke7/kclarke7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
