@@ -1,5 +1,6 @@
 # Hi, I’m Kyla Clarke 👋 💻
-<img src=""alt="Kyla's Profile Banner"/>
+![Kyla Clarke](https://github.com/user-attachments/assets/9626aa8c-7b6c-470e-88c9-d7f750d90993)
+
 <h2>My interests</h2>
 <p>Talk about my interests and possibly some hobbies</p>
 <h2>📝 What I'm Learning</h2>
